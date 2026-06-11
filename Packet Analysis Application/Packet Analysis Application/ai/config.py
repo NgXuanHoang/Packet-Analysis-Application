@@ -7,7 +7,7 @@ Lấy key tại: https://aistudio.google.com/apikey
 # ===== API CONFIGURATION =====
 AI_CONFIG = {
     "provider": "anthropic",           # "gemini", "anthropic", hoặc "openai"
-    "api_key": "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",  
+    "api_key": "your api key",  
     "model": "claude-sonnet-4-20250514", # Định dạng chuẩn tên phiên bản Sonnet hiện tại
     "max_tokens": 2048,
 
